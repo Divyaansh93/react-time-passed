@@ -20,6 +20,9 @@ About this Project
 
 This Component displays the time elapsed to an event. Moment is used to parse the date-time sent from props, and real time updates as time passed.It access the current time if we don't pass through props.  
 
+## Live Demo At
+  https://divyansh1605.github.io/react-time-passed/
+
 ## Prerequisites
 
 [Node.js](http://nodejs.org/) >= v4 must be installed.
